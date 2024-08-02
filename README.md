@@ -8,3 +8,5 @@
 buraları kendine göre değiştir
 
 cmd açıp node index.js yaz çalıştır
+
+Kuramıyorsanız dc : rateberk & nolyrica0
